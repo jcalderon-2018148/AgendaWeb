@@ -1,0 +1,56 @@
+.row-contact {
+    color: white;
+}
+
+.div-task {
+    background-color: #2e2e33;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.divisor {
+    border-color: #727277;
+}
+
+.inputTextt {
+    width: 100%;
+}
+
+.canvasH {
+    color: white;
+}
+
+.label {
+    color: white;
+}
+
+.canvasC {
+    margin: 10px 0;
+}
+
+.form {
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+}
+
+.modal-open {
+    overflow: scroll;
+}
+
+.button-back {
+    font-size: 16px;
+	padding: 18px 30px;
+	position: fixed;
+	top: 20px;
+	left: 20px;
+	z-index: 99;
+}
+
+.divisor {
+    border-color: #727277;
+}

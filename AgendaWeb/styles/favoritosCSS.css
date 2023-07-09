@@ -1,0 +1,42 @@
+.div-contact {
+    background-color: #2e2e33;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.row-contact {
+    color: white;
+}
+
+.div-contact {
+    background-color: #2e2e33;
+}
+
+.divisor {
+    border-color: #727277;
+}
+
+.canvasH {
+    color: white;
+}
+
+.label {
+    color: white;
+}
+
+.canvasC {
+    margin: 10px 0;
+}
+
+.button-back {
+    font-size: 16px;
+	padding: 18px 30px;
+	position: fixed;
+	top: 20px;
+	left: 20px;
+	z-index: 99;
+}

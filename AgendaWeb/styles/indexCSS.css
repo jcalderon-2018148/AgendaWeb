@@ -1,0 +1,17 @@
+.contenedor {
+    background-color: white;
+    border-radius: 15px;
+}
+
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.wave {
+    position: absolute;
+    top: 0;
+    left: 0;
+}

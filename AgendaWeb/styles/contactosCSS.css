@@ -1,0 +1,40 @@
+.contenedor {
+    background-color: white;
+    border-radius: 15px;
+}
+
+.wave {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.row-contact {
+    color: white;
+}
+
+.div-contact {
+    background-color: #2e2e33;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.divisor {
+    border-color: #727277;
+}
+
+.canvasH {
+    color: white;
+}
+
+.label {
+    color: white;
+}
+
+.canvasC {
+    margin: 10px 0;
+}
